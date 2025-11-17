@@ -1,0 +1,9 @@
+streamlit
+openai==1.40.0
+transformers
+torch
+whisper
+ffmpeg-python
+nltk
+sentencepiece
+numpy
